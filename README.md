@@ -1,1 +1,0 @@
-# wave_function_1d.2016.12.19
